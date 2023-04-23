@@ -35,6 +35,7 @@ I'm a Senior Flutter Engineer with deep technical expertise in:
 - Integrating RESTful APIs
 - Firebase integration
 - Third-party libraries and APIs integration
+- Push Notification Integration.
 - Agile methodology
 
 <!-- ## 🚀 My achievements 
