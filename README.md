@@ -64,5 +64,5 @@ I believe in the power of collaboration and am always excited to contribute to p
 
 ## 📫 How to reach me 
 
-You can reach me via [Email Address](biomanuel97@gmail.com), [LinkedIn](https://www.linkedin.com/in/emmanuel-oladayo/), [Twitter](https://twitter.com/biomanuel97). Let's connect and discuss how we can work together to build amazing and revolutionary products!
+You can reach me via [Email Address](biomanuel97@gmail.com), [LinkedIn](https://www.linkedin.com/in/emmanuel-oladayo/), [Twitter](https://twitter.com/lightsBeam_). Let's connect and discuss how we can work together to build amazing and revolutionary products!
 
