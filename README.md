@@ -59,6 +59,7 @@ I'm a fan of open source and actively contribute to various open-source projects
 
 - [carousel_calendar](https://pub.dev/packages/carousel_calendar) - A flutter widget that displays calendar in a form of carousel slider.
 - [DP Widget](https://pub.dev/packages/dp_widget) - A custom widget built on cached_network image and other widgets to allow you display file image, network image and placeholders as for user profile picture as appropriate without handling the state or switching manually.
+- [Tetris Game](https://github.com/damilare-d/tetris_game) - A Tetris game built with flutter.
 
 I believe in the power of collaboration and am always excited to contribute to projects that align with my values.
 
