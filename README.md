@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Emmanuel Oladayo, a Senior Mobile Engineer 
 
-I'm a highly skilled Mobile Engineer with 5 years of experience creating mobile apps for both Android and iOS platforms. I'm passionate about using technology to solve real-world problems and constantly exploring new ways to improve the user experience of the apps I build.
+I'm a highly skilled Mobile Engineer with over 5 years of experience creating mobile apps for both Android and iOS platforms. I'm passionate about using technology to solve real-world problems and constantly exploring new ways to improve the user experience of the apps I build.
 
 <!--
 ## 🔭 What I'm working on 
